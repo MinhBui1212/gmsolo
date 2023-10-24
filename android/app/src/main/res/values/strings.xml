@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cuemate</string>
+    <string name="facebook_app_id">1860945007653398</string>
+    <string name="fb_login_protocol_scheme">fb1860945007653398</string>
+    <string name="facebook_client_token">1fc00c4a75f42532eefea57ff3b7a3e6</string>
+</resources>

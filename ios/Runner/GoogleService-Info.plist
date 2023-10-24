@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>843343037042-8f5sjapain12duhm71i7tqjrheukg774.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.843343037042-8f5sjapain12duhm71i7tqjrheukg774</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>843343037042-62bmj6n7vip5pon3tnkff3vlc6tocfs3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBr6OM2bU-IVpGTLbiHsejFDiL8Kzt24is</string>
+	<key>GCM_SENDER_ID</key>
+	<string>843343037042</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cuemate</string>
+	<key>PROJECT_ID</key>
+	<string>gm-solo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gm-solo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:843343037042:ios:ac751430d3ae2c3b1478eb</string>
+	<key>DATABASE_URL</key>
+	<string>https://gm-solo-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

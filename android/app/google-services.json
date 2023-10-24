@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843343037042",
+    "firebase_url": "https://gm-solo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gm-solo",
+    "storage_bucket": "gm-solo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843343037042:android:5bcfee5c097576911478eb",
+        "android_client_info": {
+          "package_name": "com.example.cuemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843343037042-dskrep8b9k3ccg9pl3aan7ojq139vuo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cuemate",
+            "certificate_hash": "1d321dbaf9115bac04e4f0045f729a2732bb8f66"
+          }
+        },
+        {
+          "client_id": "843343037042-m0b7g80jlk48o6jj296h7oaf91ssqpsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5t1g4E3NElH6sV6VZn7_d00iftei78c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843343037042-m0b7g80jlk48o6jj296h7oaf91ssqpsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843343037042-a879cugn584438ebnincgs38pj43r2ds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gmsolo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
